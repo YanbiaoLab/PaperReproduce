@@ -61,7 +61,7 @@ $datacanvas-paper-reproduce
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/hitcdl2019-ux/datacanvas-paper-reproduce.git
+git clone https://github.com/YanbiaoLab/PaperReproduce.git
 cd datacanvas-paper-reproduce
 ```
 
